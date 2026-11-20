@@ -6,7 +6,7 @@ type: software
 version: "1.0.0"
 date-released: "2026-11-20"
 license: MIT
-repository-code: "https://github.com/Yuelan-jpg/augur-manoeuvre"
+repository-code: "https://github.com/Yuelan-Jpg/augur-manoeuvre"
 # TODO before deposit: replace the placeholder authors with the author list of the paper,
 # in the same order and with the same affiliations, and fill in the Zenodo DOI below.
 authors:
