@@ -1,0 +1,19 @@
+The derived artefacts listed in README.md (X.npy, M.npy, Y.npy, DUR.npy, vlen.npy,
+ds_meta.parquet, arr_2025*.parquet, flight_times.parquet, ttl.parquet, pred_*.npz and eta/)
+are licensed under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).
+
+You are free to share and adapt the material for any purpose, including commercially,
+provided you give appropriate credit, link to the licence, and indicate whether changes
+were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Suggested attribution:
+
+  The authors of "Forecasting trajectory-observable manoeuvre events in terminal airspace:
+  a date-split protocol on measured surveillance data" (2026). Derived artefacts,
+  CC BY 4.0.
+
+The raw surveillance record is not covered by this licence and is not redistributed; it
+belongs to the air navigation service provider and is available from the authors under a
+data-sharing agreement.

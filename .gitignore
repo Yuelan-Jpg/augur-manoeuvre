@@ -1,0 +1,10 @@
+# artefacts are distributed through Zenodo, not through git
+data/*
+!data/README.md
+raw/
+figs/
+release/
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
